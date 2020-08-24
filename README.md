@@ -26,5 +26,6 @@ https://github.com/ashu12chi/LinuxInstallation/blob/master/image.jpg
 https://flutter.dev/docs/get-started/install/linux
 
 ### Android studio
-https://developer.android.com/studio/install
+1. https://developer.android.com/studio/install
+2. [settings](https://github.com/ashu12chi/LinuxInstallation/blob/master/settings.zip)
 

@@ -4,11 +4,11 @@ This repository contains everything I needed after new Linux installation.
 ### ocs url
 https://www.pling.com/p/1136805/
 
-### sublime text 3
+### Sublime Text 3
 https://github.com/ashu12chi/LinuxInstallation/blob/master/Sublime-text-3.md
 
-### gnome tweak tools
-sudo apt install gnome-tweaks
+### Gnome Tweak tools
+```sudo apt install gnome-tweaks```
 
 ### dash to dock
 https://micheleg.github.io/dash-to-dock/releases.html
@@ -19,13 +19,17 @@ https://github.com/ashu12chi/LinuxInstallation/blob/master/Theme.md
 ### oracle-jdk
 https://docs.google.com/document/d/1NizNouRGmrGABE-lh1yXB4R0nsRkz_mKeJnQ7qulskE/edit
 
-### wallpaper
-https://github.com/ashu12chi/LinuxInstallation/blob/master/image.jpg
+### Wallpaper
+[Get here](https://github.com/ashu12chi/LinuxInstallation/raw/master/image.jpg)
 
-### flutter sdk
+### Flutter sdk
 https://flutter.dev/docs/get-started/install/linux
 
-### Android studio
+### Android Studio
 1. https://developer.android.com/studio/install
-2. [settings](https://github.com/ashu12chi/LinuxInstallation/blob/master/settings.zip)
+2. [Settings](https://github.com/ashu12chi/LinuxInstallation/blob/master/settings.zip)
 
+### To enable snap package manager in Pop!_OS
+1. sudo apt install snapd
+2. sudo snap install snap-store
+3. now 'Snap Store' will be available in app menu. You can easily install flutter, skype, spotify from here, no need to search for .deb packages.
